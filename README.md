@@ -1,0 +1,1 @@
+# vwo-nextjs-12-without-document
