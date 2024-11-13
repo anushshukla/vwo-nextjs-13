@@ -9,7 +9,7 @@ export default () => {
         <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
       </Head>
       {/* Below Script causes char encoding in Next.js versions <=v12.2.0 */}
-        <Script id="vwoCode" strategy="beforeInteractive">
+        <Script id="vwoCode">
           {`window._vwo_code || (function() {
   var account_id=767128,
   version=2.0,
